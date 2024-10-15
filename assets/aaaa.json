@@ -1,0 +1,43 @@
+{
+    "name": "YanDucks #0",
+    "description": "Collection of Yan Ducks Cookie only for study purpousen",
+    "image": "ipfs://QmcjPik7v61irBYfx2zArr5wWTGUgrmrDhxcwQbMFahzCj/0.png",
+    "dna": "9b45ab49eaa36f1109f391a47f1ed735518ad49e",
+        "edition": 0,
+        "date": 1646295696483,
+        "attributes": [
+            {
+                "trait_type": "Face",
+                "value": "face2"
+            },
+            {
+                "trait_type": "Ears",
+                "value": "ears4"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "hair7"
+            },
+            {
+                "trait_type": "Beard",
+                "value": "beard5"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "eyes4"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "n1"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "m1"
+            },
+            {
+                "trait_type": "Access",
+                "value": "acc1"
+            }
+        ],
+        "compiler": "HashLips Art Engine"
+    }

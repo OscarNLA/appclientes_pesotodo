@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pesotodochat",
+  "private_key_id": "49684a4f6cd93e96e4af003a530804bf27315a28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK3kKi/W5d9rZ4\ntsUiYJpb/WWqLhFbgBi6GfrnIftFe7gAnl0lmgCD9mqAtnfmEVOzoU0dpFmp+sTa\nOxLjlHsDU3/TPZfiKef73bmnUTN/4QuSvojJ3n4uCqCXI0QBwKBWGAUliK4EXRHV\neQL9Ynxseb7TYsItjirTWYJtewnOOni1k5ZjaSHhyhBd14tZJ3qfb/hxrhFYohh2\nJlp2Y3AMbyPwexFdJ48pwCdwLq2EVifmgKzd5WGaUZh1NEtX88KYXqVkCiwMrudL\nuSe6ZR7ALx0xKEF7WNwEgtP0uSvvuzjzzTgulvD/OaOTXEhozgorLeR+JFO9ViAZ\nIjlT0crNAgMBAAECggEAAj5jZJ5tRjsbI9+lni6NASp0IZCL3u6zl09VP+bXesUW\nW7oPVAH4Mn1wX8cPhsBh+XEgbgz/dDVSpbU/OBF61iZqGgHVjbSinQhZQXlQ7/+j\nBfb3LVW5dd874nVgjwJnOOc1cLJVIQrkeRodsdlmgI6iJoAHn22x7zoktVBF41LW\nLQJAzLs5LfEimgwNggAJd+iN++4fPjAbBzXcqRVgF8QqWjXxkon7SNeyaYy9IVAh\nHABUuYqDb0CiyEkOmBcOalfGBmKA3icA8VQrQyT5aC0c00WVGkBqg5jX5TwX40Jj\ns0TI84tfUlNMLe5GQuKO3GInjd7b3I6qAB/hmqCIwQKBgQD1/Uv4Qb8fnIK2UpFC\ngPdJuhWt2E2PX1jmjF8O3r4rfHNPOSCok6NKV80aCOp7d/Qa//dGei5krU7Curaf\nQARp/hSTTGoB+6q+5V3YMWlksTocBNyNahHEEMIaBYgBH7y07xBphCs0VUNbmZXW\n6M0wbqr2iag8mHaK1QWzQSA04QKBgQDTH7qlnNvH0a0cwtEvOEwpnbT65wpE/7Je\nIFNR2en1dTogSFk/8Q3lhboZgEoEtGhCL256Y7+XO4LLCwPOp1VqHvYPNf1Q3J0c\nr6lzNrm40/fjbbnw/diSFy43WJ8kGFunKdO+1SjbFe+ClSJDLS+8vK6/FyCmvkOh\ns8Jwla0nbQKBgDxqWZ4/h5Fb/z6ISOTsh8+zxF9OIL51zH/TOgWM72f+yNNMVJkS\nqag4qEccqXppm6qF81V77KkNZ6qr8O5r6qmdnbAPtHmINgdsjf/rItd4L61yBDk3\nM+XTt9hsQ1sDUHWfwYgozfOsfT6iGgsOYlbi11p1tLwtNfAjIaNE+4QBAoGATp9k\nTMSLfHBzPWC3shQPGPhoK3/a7TMj47W6EaNLY2OSj+8hfZRxjmYslc6WwgXFRdCQ\nHfgDo3hADwk9E7pxLqH1FFkQywo9YC9ytTtOEqythf6Y3kxKWK1VQrs4GKMRjsEe\n39RV8LDMjx6mscmkG29QzEz6ld4JJbDh2jeDUkkCgYEAh00gZ6c+Gw/2ha8eW0D4\niSwXm1cdqFHaviZuAwwxMb47ZZ/3+jj+skpOv03sRWYbZWMnVUPmCy613fxEbCdc\nvpg6zor2xWOsq3KTeNDqVRiCMUUpZ9nTLPgX6Z0kGcbyn2UoqDOF2exHJhIbIKwj\noM/EpJS2kVh939/Cpekbw8o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pesobot@pesotodochat.iam.gserviceaccount.com",
+  "client_id": "114198752908249358372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pesobot%40pesotodochat.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
